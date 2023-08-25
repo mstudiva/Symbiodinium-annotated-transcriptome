@@ -1,0 +1,13 @@
+
+Symbiodinium.fasta
+-------------------------
+164631 sequences.
+1612 average length.
+25614 maximum length.
+201 minimum length.
+N50 = 2349
+265.4 Mb altogether (265376549 bp).
+0 ambiguous Mb. (0 bp, 0%)
+0 Mb of Ns. (0 bp, 0%)
+-------------------------
+
