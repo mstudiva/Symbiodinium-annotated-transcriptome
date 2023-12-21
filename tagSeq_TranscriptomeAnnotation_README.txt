@@ -129,10 +129,10 @@ cd /path/to/local/directory
 scp mstudiva@koko-login.hpc.fau.edu:~/path/to/HPC/directory/\*_out_PRO.fas .
 
 # copy link to job ID status and output file, paste it below instead of current link:
-# http://eggnog-mapper.embl.de/job_status?jobname=MM_rl0xxfv9
+# http://eggnog-mapper.embl.de/job_status?jobname=MM_p8xnu0c4
 
 # once it is done, download results to HPC:
-wget http://eggnog-mapper.embl.de/MM_rl0xxfv9/out.emapper.annotations
+wget http://eggnog-mapper.embl.de/MM_p8xnu0c4/out.emapper.annotations
 
 # GO:
 awk -F "\t" 'BEGIN {OFS="\t" }{print $1,$10 }' out.emapper.annotations | grep GO | perl -pe 's/,/;/g' >Symbiodinium_iso2go.tab
@@ -164,10 +164,10 @@ cd /path/to/local/directory
 scp mstudiva@koko-login.hpc.fau.edu:~/path/to/HPC/directory/\*4kegg.fasta .
 # use web browser to submit 4kegg.fasta file to KEGG's KAAS server (http://www.genome.jp/kegg/kaas/)
 # select SBH method, upload nucleotide query
-https://www.genome.jp/kaas-bin/kaas_main?mode=user&id=1692929694&key=cp3BK35N
+https://www.genome.jp/kaas-bin/kaas_main?mode=user&id=1703117170&key=fnoQ2h9A
 
 # Once it is done, download to HPC - it is named query.ko by default
-wget https://www.genome.jp/tools/kaas/files/dl/1692929694/query.ko
+wget https://www.genome.jp/tools/kaas/files/dl/1703117170/query.ko
 
 # selecting only the lines with non-missing annotation:
 cat query.ko | awk '{if ($2!="") print }' > Symbiodinium_iso2kegg.tab

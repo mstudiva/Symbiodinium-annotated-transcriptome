@@ -113,6 +113,7 @@ Symbiodinium29178	-
 Symbiodinium46048	otu domain-containing protein
 Symbiodinium34292	Serine Threonine protein
 Symbiodinium12758	Pro-kumamolisin, activation domain
+Symbiodinium26143	photosynthesis
 Symbiodinium43806	Thioredoxin
 Symbiodinium24609	Belongs to the type-B carboxylesterase lipase family
 Symbiodinium45972	Belongs to the class I-like SAM-binding methyltransferase superfamily. C5-methyltransferase family
@@ -290,6 +291,7 @@ Symbiodinium41360	protein kinase activity
 Symbiodinium8069	Cold shock protein domain
 Symbiodinium23173	protein deglutamylation
 Symbiodinium51941	regulation of multivesicular body size involved in endosome transport
+Symbiodinium27069	photosynthesis
 Symbiodinium6601	Efflux ABC transporter, permease ATP-binding protein
 Symbiodinium14206	N-acetylglucosaminylphosphatidylinositol deacetylase activity
 Symbiodinium5653	fatty acid beta-oxidation
@@ -571,6 +573,7 @@ Symbiodinium36617	Tetrapolymerization of the monopyrrole PBG into the hydroxymet
 Symbiodinium29956	Belongs to the ubiquitin-conjugating enzyme family
 Symbiodinium31386	nuclear retention of unspliced pre-mRNA at the site of transcription
 Symbiodinium47477	Shwachman-Bodian-Diamond syndrome (SBDS) protein
+Symbiodinium27054	photosynthesis
 Symbiodinium26514	Belongs to the glycosyl hydrolase 7 (cellulase C) family
 Symbiodinium40115	palmitoyl-(protein) hydrolase activity
 Symbiodinium53393	Phosphoadenosine phosphosulfate reductase
@@ -740,6 +743,7 @@ Symbiodinium26315	Peptidase family C69
 Symbiodinium792	Belongs to the small GTPase superfamily. Arf family
 Symbiodinium15863	Sugar (and other) transporter
 Symbiodinium37445	cell redox homeostasis
+Symbiodinium26827	photosynthesis
 Symbiodinium38243	Mechanosensitive ion channel
 Symbiodinium22972	Belongs to the universal ribosomal protein uL1 family
 Symbiodinium67777	phosphopantetheine binding
@@ -815,6 +819,7 @@ Symbiodinium13118	Aldo/keto reductase family
 Symbiodinium28746	serine-type endopeptidase activity
 Symbiodinium54613	Peptidyl-prolyl cis-trans isomerase
 Symbiodinium49317	ABC transporter
+Symbiodinium26165	photosynthesis
 Symbiodinium39049	Protein kinase domain
 Symbiodinium7921	iron-sulfur transferase activity
 Symbiodinium15127	ribosomal protein
@@ -3249,7 +3254,7 @@ Symbiodinium46363	voltage-gated potassium channel activity
 Symbiodinium21897	Belongs to the CarA family
 Symbiodinium51519	Cilia- and flagella-associated protein
 Symbiodinium46884	Signal recognition particle receptor
-Symbiodinium32933	Mycolic acid cyclopropane synthetase
+Symbiodinium32933	sterol 24-C-methyltransferase activity
 Symbiodinium30924	polyketide synthase
 Symbiodinium8756	carbohydrate transmembrane transporter activity
 Symbiodinium36616	CWC25 spliceosome-associated protein homolog (S. cerevisiae)
@@ -5578,6 +5583,7 @@ Symbiodinium42066	Dual specificity phosphatase, catalytic domain
 Symbiodinium44261	Natural resistance-associated macrophage protein
 Symbiodinium36859	nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription
 Symbiodinium40048	Calcium-dependent protein kinase
+Symbiodinium44371	ribosomal protein l22
 Symbiodinium12630	Chlorophyll A-B binding protein
 Symbiodinium23026	Cobalamin synthesis protein cobW C-terminal domain
 Symbiodinium8154	Rab subfamily of small GTPases
@@ -6247,6 +6253,7 @@ Symbiodinium42528	creatine kinase activity
 Symbiodinium24886	Translation Initiation Inhibitor YjgF Family
 Symbiodinium34671	Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter
 Symbiodinium42898	Autocrine proliferation repressor protein
+Symbiodinium19450	photosynthesis
 Symbiodinium7917	PPIC-type PPIASE domain
 Symbiodinium11020	RING-like zinc finger
 Symbiodinium24754	Aldo/keto reductase family
@@ -7979,6 +7986,7 @@ Symbiodinium5626	Catalyzes the methylthiolation of N6- (dimethylallyl)adenosine 
 Symbiodinium37075	ammonium transmembrane transporter activity
 Symbiodinium52174	RNA cytidine acetyltransferase with specificity toward both 18S rRNA and tRNAs. Catalyzes the formation of N(4)- acetylcytidine (ac4C) in 18S rRNA. Required for early nucleolar cleavages of precursor rRNA at sites A0, A1 and A2 during 18S rRNA synthesis. Catalyzes the formation of ac4C in serine and leucine tRNAs. Requires a tRNA-binding adapter protein for full tRNA acetyltransferase activity but not for 18S rRNA acetylation
 Symbiodinium47310	polynucleotide adenylyltransferase activity
+Symbiodinium42548	photosynthesis
 Symbiodinium52908	Proteasome assembly chaperone 4
 Symbiodinium16482	Belongs to the MIP aquaporin (TC 1.A.8) family
 Symbiodinium39003	ring finger protein 130
@@ -8762,6 +8770,7 @@ Symbiodinium42104	Sec-independent protein translocase protein (TatC)
 Symbiodinium38652	Calcium-binding protein
 Symbiodinium53645	Phosphotransferase enzyme family
 Symbiodinium33514	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
+Symbiodinium24632	photosynthesis
 Symbiodinium6543	Cupin 4 family protein
 Symbiodinium9113	Domain of unknown function (DUF4033)
 Symbiodinium70423	zinc finger (CCCH type)
@@ -9103,6 +9112,7 @@ Symbiodinium19793	negative regulation of nitric-oxide synthase activity
 Symbiodinium6700	Q COG3321 Polyketide synthase modules and related proteins
 Symbiodinium31290	EamA-like transporter family
 Symbiodinium52270	Serine hydrolase involved in the detoxification of formaldehyde
+Symbiodinium26839	photosynthesis
 Symbiodinium25568	ribosomal protein
 Symbiodinium13625	Belongs to the STXBP unc-18 SEC1 family
 Symbiodinium6668	FK506 binding protein 14
@@ -9280,6 +9290,7 @@ Symbiodinium33046	SET (Su(var)3-9, Enhancer-of-zeste, Trithorax) domain
 Symbiodinium30969	Prokaryotic RING finger family 4
 Symbiodinium31800	Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family
 Symbiodinium10912	Bestrophin, RFP-TM, chloride channel
+Symbiodinium27136	photosynthesis
 Symbiodinium12528	alpha-L-arabinofuranosidase activity
 Symbiodinium3910	serine threonine protein kinase
 Symbiodinium27295	One of the components of the core complex of photosystem II (PSII). It binds chlorophyll and helps catalyze the primary light-induced photochemical processes of PSII. PSII is a light- driven water plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation
@@ -9351,6 +9362,7 @@ Symbiodinium42616	PAP_fibrillin
 Symbiodinium25828	glucosyltransferase activity
 Symbiodinium30501	PFAM glycoside hydrolase, family 16
 Symbiodinium38525	COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
+Symbiodinium48398	photosynthesis
 Symbiodinium38260	Phosphoribulokinase / Uridine kinase family
 Symbiodinium5991	Eukaryotic translation initiation factor 2-alpha kinase
 Symbiodinium43972	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
@@ -10003,6 +10015,7 @@ Symbiodinium38505	Rtf2 RING-finger
 Symbiodinium6792	Zinc finger, CCCH type
 Symbiodinium28376	Protein of unknown function (DUF760)
 Symbiodinium5067	Enoyl-CoA hydratase/isomerase
+Symbiodinium21590	photosynthesis
 Symbiodinium17135	Subtilase family
 Symbiodinium42179	Info polymerase (RNA) II (DNA directed) polypeptide H
 Symbiodinium3768	Animal haem peroxidase
@@ -10081,6 +10094,6 @@ Symbiodinium5647	NAD+ diphosphatase activity
 Symbiodinium25345	G-quadruplex DNA unwinding
 Symbiodinium25387	dynein light chain binding
 Symbiodinium26017	ATP synthase
-## 10083 queries scanned	
-## Total time (seconds): 131.7154290676117	
-## Rate: 76.55 q/s	
+## 10096 queries scanned	
+## Total time (seconds): 154.34335350990295	
+## Rate: 65.41 q/s	
